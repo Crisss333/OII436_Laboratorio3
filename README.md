@@ -3,7 +3,7 @@
 ## Identificación
 
 - **Nombre:** Cristopher Dauros.
-- **Asignatura y sección:** Ingeniería Web Avanzada, OII436-1.
+- **Asignatura:** OII436 - Ingeniería Web Avanzada
 - **Fecha:** 9 de Noviembre de 2026.
 - **Repositorio:** [Crisss333/OII436_Laboratorio3](https://github.com/Crisss333/OII436_Laboratorio3).
 
@@ -355,7 +355,7 @@ resultaron idénticos byte a byte a los de la ejecución original. Se comprobó 
 `sys.executable` apuntaba al entorno activado y que su `sys.prefix` difería del
 intérprete base.
 
-## Respuestas a las seis preguntas conceptuales
+## Preguntas conceptuales
 
 ### 1. ¿Qué información describe el contenido de los recursos y qué información constituye el perfil del usuario? Identifique ambas en los archivos del proyecto.
 
@@ -441,7 +441,7 @@ y revisar que no se introduzcan asociaciones incorrectas. Esta mejora se propone
 como trabajo posterior; en la entrega se conservaron las etiquetas originales y el
 algoritmo exigido para reproducir los casos suministrados.
 
-## Archivos de la entrega
+## Contenido del repositorio
 
 ```text
 OII436_Laboratorio3/
