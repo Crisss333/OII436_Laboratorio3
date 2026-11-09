@@ -1,11 +1,9 @@
 # Laboratorio 3: Aplicación Inteligente Adaptativa
 
-## Identificación
-
-- **Nombre:** Cristopher Dauros.
+- **Nombre:** Cristopher Dauros
 - **Asignatura:** OII436 - Ingeniería Web Avanzada
-- **Fecha:** 9 de Noviembre de 2026.
-- **Repositorio:** [Crisss333/OII436_Laboratorio3](https://github.com/Crisss333/OII436_Laboratorio3).
+- **Fecha:** 9 de Noviembre de 2026
+- **Repositorio:** [Crisss333/OII436_Laboratorio3](https://github.com/Crisss333/OII436_Laboratorio3)
 
 ## Objetivo y alcance
 
