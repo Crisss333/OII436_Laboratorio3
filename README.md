@@ -1,4 +1,4 @@
-# Laboratorio 3: Aplicación inteligente adaptativa
+# Laboratorio 3: Aplicación Inteligente Adaptativa
 
 ## Identificación
 
