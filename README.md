@@ -2,10 +2,9 @@
 
 ## Identificación
 
-- **Integrante:** Cristopher Dauros.
-- **Modalidad:** individual.
+- **Nombre:** Cristopher Dauros.
 - **Asignatura y sección:** Ingeniería Web Avanzada, OII436-1.
-- **Fecha:** 9 de noviembre de 2026, segundo semestre.
+- **Fecha:** 9 de Noviembre de 2026.
 - **Repositorio:** [Crisss333/OII436_Laboratorio3](https://github.com/Crisss333/OII436_Laboratorio3).
 
 ## Objetivo y alcance
