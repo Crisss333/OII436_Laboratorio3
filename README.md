@@ -1,4 +1,4 @@
-# Laboratorio 3: aplicación inteligente adaptativa
+# Laboratorio 3: Aplicación inteligente adaptativa
 
 ## Identificación
 
@@ -464,8 +464,7 @@ y las instrucciones de reproducción. `.gitignore` excluye `.venv/`, `__pycache_
 archivos de bytecode, archivos de entorno y temporales. Las dependencias instaladas
 permanecen fuera del control de versiones.
 
-Para la entrega en el aula se adjunta un archivo de texto `.txt` con la URL del
-repositorio. El repositorio contiene los archivos necesarios para reproducir la
+El repositorio contiene los archivos necesarios para reproducir la
 aplicación y consultar sus evidencias.
 
 ## Referencias técnicas
